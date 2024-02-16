@@ -1,0 +1,7 @@
+*.ppt
+*.nc
+*.pdf
+*.png
+*.cdf
+*.ipynb
+!FINAL Radiant Heating Parameterization.ipynb
