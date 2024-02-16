@@ -1,0 +1,2 @@
+All code to reproduce the Figures in the manuscript "An Improved Bio-Physical Parameterization for Radiant Heating in the Surface Ocean" submitted to JGR:Oceans can be found in the "Research Summary" notebook.
+Data will first need to be downloaded from Columbia Academic Commons: https://doi.org/10.7916/wmdm-vm51. There is a cell at the top of the "Research Summary" notebook to point towards the path where you have stored this data. 
